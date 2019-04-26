@@ -1,6 +1,10 @@
+
 # Vue.js client application for image recognition
 
 Simple application that consumes response from image recognition webAPI.
+
+## Example
+[See the working example here](https://pherder.github.io/vuejs-client-for-image-recognition/#/).
 
 ## Running
 
